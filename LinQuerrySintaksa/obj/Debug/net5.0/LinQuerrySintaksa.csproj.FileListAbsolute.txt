@@ -1,0 +1,5 @@
+C:\Users\anteu\source\repos\LinQuerrySintaksa\LinQuerrySintaksa\obj\Debug\net5.0\LinQuerrySintaksa.csprojAssemblyReference.cache
+C:\Users\anteu\source\repos\LinQuerrySintaksa\LinQuerrySintaksa\obj\Debug\net5.0\LinQuerrySintaksa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anteu\source\repos\LinQuerrySintaksa\LinQuerrySintaksa\obj\Debug\net5.0\LinQuerrySintaksa.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\LinQuerrySintaksa\LinQuerrySintaksa\obj\Debug\net5.0\LinQuerrySintaksa.AssemblyInfo.cs
+C:\Users\anteu\source\repos\LinQuerrySintaksa\LinQuerrySintaksa\obj\Debug\net5.0\LinQuerrySintaksa.csproj.CoreCompileInputs.cache
